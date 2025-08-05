@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+text-decoration: none;
+list-style: none;
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+justify-content: space-between
+}
+.head{
+    background-color: black;
+}
+.div{
+    background-color: rgb(57, 50, 50);
+    justify-content: space-between;
+    display: flex;
+    padding-left: 480px;
+}
+.ull{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    color: white;
+}
+.btn{
+    background-color: darkorange;
+
+}
+.ul,li,a{
+    color: white;
+}
+
+c:\Users\user\AppData\Local\Temp\Rar$DRa11056.5195.rartemp\dars4\main.pyc:\Users\user\AppData\Local\Temp\Rar$DRa11056.5195.rartemp\dars4\main.pyurl(../../AppData/Local/Temp/Rar\$DRa11056.5195.rartemp/dars4/main.py)url(../../AppData/Local/Temp/Rar\$DRa11056.5195.rartemp/dars4/main.py)
